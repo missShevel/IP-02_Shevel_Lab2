@@ -45,7 +45,7 @@ class Main {
       else{
         System.out.printf(" кут A - гострий,%n кут B - гострий,%n кут C - гострий");
       }
-
+///////
     }
   }
 }
